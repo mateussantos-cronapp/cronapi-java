@@ -6,7 +6,7 @@ Java library for CronApp's users
     * [Maven](#maven)
   * [License](#license)
 
-## Installation
+## Installation1212
 
 ##### Maven
 
